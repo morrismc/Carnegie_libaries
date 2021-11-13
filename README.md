@@ -9,7 +9,7 @@ To quickly plot the results, there was a very peaked period of Carnegie library 
 
 I also wanted to look at the state by state breakdown through time, this time making a bubble plot.
 
-![full bubble plot](full_bubble_plot.jpeg)
+![full bubble plot](full_bubble_plot.jpg)
 
 
 More discussion and plots available on my [blog](https://matthewmorriss.weebly.com/codeblog/archives/05-2019)
